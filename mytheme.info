@@ -8,10 +8,8 @@ core = 7.x
 ; ========================================
 ; Stylesheets
 ; ========================================
-stylesheets[all][] = css/mytheme.normalize.css
-stylesheets[all][] = css/mytheme.hacks.css
+stylesheets[all][] = css/mytheme.reset.css
 stylesheets[all][] = css/mytheme.styles.css
-stylesheets[all][] = css/mytheme.no-query.css
 
 ; ========================================
 ; Scripts
